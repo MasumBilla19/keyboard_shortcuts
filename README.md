@@ -15,5 +15,15 @@
       |       08       | Windows logo key + D         | Display and hide the desktop. |
       |       09       | F2                           | Rename the selected item. |
       |       10       | F3                           | Search for a file or folder in File Explorer. |
+      |       11       | F4                           | Display the address bar list in File Explorer. |
+      |       12       | F5                           | Refresh the active window. |
+      |       13       | F6                           | Cycle through screen elements in a window or on the desktop. |
+      |       14       | F10                          | Activate the Menu bar in the active app. |
+      |       15       | Alt + F8                     | Show your password on the sign-in screen. |
+      |       16       | Alt + Esc                    | Cycle through items in the order in which they were opened. |
+      |       17       | Alt + underlined letter      | Perform the command for that letter. |
+      |       18       | Alt + Enter                  | Display properties for the selected item. |
+      |       19       | Alt + Spacebar               | Open the shortcut menu for the active window. |
+      |       20       | Alt + Left arrow             | Go back. |
       
 </pre>
