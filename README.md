@@ -4,6 +4,7 @@
 ## copy, paste, and other general commands: 
 
       | Counter Number | Press This Key               | To Do This |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
       |       01       | Ctrl + X                     | Cut the selected item. |
       |       02       | Ctrl + C (or Ctrl + Insert)  | Copy the selected item. |
       |       03       | Ctrl + V (or Shift + Insert) | Paste the selected item. |
