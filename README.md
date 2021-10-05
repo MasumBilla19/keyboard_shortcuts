@@ -1,10 +1,10 @@
-# keyboard_shortcuts: 
+# keyboard shortcuts Commands in Windows: 
 
 <pre>
 ## copy, paste, and other general commands: 
 
-      | Counter Number | Press This Key               | To Do This |
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      | COUNTER NUMBER | PRESS THIS KEY               | TO DO THIS |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
       |       01       | Ctrl + X                     | Cut the selected item. |
       |       02       | Ctrl + C (or Ctrl + Insert)  | Copy the selected item. |
       |       03       | Ctrl + V (or Shift + Insert) | Paste the selected item. |
@@ -25,5 +25,15 @@
       |       18       | Alt + Enter                  | Display properties for the selected item. |
       |       19       | Alt + Spacebar               | Open the shortcut menu for the active window. |
       |       20       | Alt + Left arrow             | Go back. |
+			|       21       | Alt + Right arrow            | Go forward. |
+			|       22       | Alt + Page Up                | Move up one screen. |
+			|       23       | Alt + Page Down              | Move down one screen. |
+			|       24       | Ctrl + F4                    | Close the active document (in apps that are full-screen and let you have multiple documents open at the same time). |
+			|       25       | Ctrl + A                     | Select all items in a document or window. |
+			|       26       | Ctrl + D (or Delete)         | Delete the selected item and move it to the Recycle Bin. |
+			|       27       | Ctrl + R (or F5)             | Refresh the active window. |
+			|       28       | Ctrl + Y             				| Redo an action. |
+			|       29       | Ctrl + Right arrow           | Move the cursor to the beginning of the next word. |
+			|       30       | Ctrl + Left arrow            | Move the cursor to the beginning of the previous word. |
       
 </pre>
